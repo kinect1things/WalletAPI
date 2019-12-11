@@ -23,7 +23,7 @@ Please use these practices to minimize red tape and not to inhibit innovation.
   - Merge to Release branches
   - Development of escalated code deliverables
 
-Junior developers will perform the following responsibilities:
+- Junior developers will perform the following responsibilities:
   - Creation of development feature branches
   - Tracking of events for logging details
   - Development of bulk code deliverables
